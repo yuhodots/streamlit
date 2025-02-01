@@ -2,13 +2,13 @@
 
 This project is a collection of AI image processing tools using Streamlit.
 
-## 기능
+## Features
 
 - Upscaler: Image upscaling using Real-ESRGAN
 - Segmenter: Image segmentation using Segment Anything Model
 - Generator: Image generation using Flux
 
-## 설치 및 실행 방법
+## How to Run
 
 1. Clone the repository
 2. Run Docker Compose
