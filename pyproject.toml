@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "streamlit-app"
+version = "0.1.0"
+description = "Streamlit app with AI models"
+authors = ["Yuho Jeong <yuho8437@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "~3.10"
+pillow = "^10.4.0"
+tqdm = "^4.66.5"
+streamlit = "^1.40.0"
+requests = "^2.31.0"
+numpy = "^1.26.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
